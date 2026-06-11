@@ -12,7 +12,7 @@ Images should be stored in:
 
 | Component | Function | Key Specification |
 |----------|----------|------------------|
-| CPU | | |
+| CPU | The Central Processing Unit (CPU) is the primary "brain" of a computer, responsible for executing software instructions and managing the flow of data across all system components | A CPU's key specifications dictate its performance, multitasking capability, power draw, and heat output. The most important metrics to evaluate are the core and thread count, clock speed, cache size, and Thermal Design Power (TDP). |
 | RAM | | |
 | Storage | | |
 | Motherboard | | |
