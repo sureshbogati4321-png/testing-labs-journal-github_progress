@@ -13,7 +13,7 @@ Images should be stored in:
 | Component | Function | Key Specification |
 |----------|----------|------------------|
 | CPU | The Central Processing Unit (CPU) is the primary "brain" of a computer, responsible for executing software instructions and managing the flow of data across all system components | A CPU's key specifications dictate its performance, multitasking capability, power draw, and heat output. The most important metrics to evaluate are the core and thread count, clock speed, cache size, and Thermal Design Power (TDP). |
-| RAM | | |
+| RAM |RAM (Random Access Memory) is your device’s short-term memory. It temporarily holds the active data and programs your computer, phone, or tablet is using right now so the processor can access them instantly |When selecting or upgrading RAM, the most important specifications are Capacity, Generation (DDR type), Speed, Latency (CL), and Form Factor |
 | Storage | | |
 | Motherboard | | |
 | Power Supply | | |
