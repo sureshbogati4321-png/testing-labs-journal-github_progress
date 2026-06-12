@@ -68,5 +68,31 @@
 | 0 |   1    |
 | 1 |   0    |
 
+✅ Basic Completion
+A	B	A × B	A + B
+0	0	0	0
+0	1	0	1
+1	0	0	1
+1	1	1	1
+✅ Compound Expression
 
+We compute:
+
+A + B = OR
+(A + B) × C = AND of result with C
+A	B	C	A + B	(A + B) × C
+0	0	0	0	0
+0	0	1	0	0
+0	1	0	1	0
+0	1	1	1	1
+1	0	0	1	0
+1	0	1	1	1
+1	1	0	1	0
+1	1	1	1	1
+✅ Match the Expression
+Table	Matches Expression
+Table A	A ⊕ B (XOR)
+Table B	A ∧ B (AND)
+Table C	A ∨ B (OR)
+Table D	¬A (NOT A)
 
