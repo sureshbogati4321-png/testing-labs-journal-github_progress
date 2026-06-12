@@ -17,6 +17,8 @@ Overall, this lab taught me that embedded systems are designed to perform specif
 
    The components that were new to me were the GPIO pins and the SoC (System on a Chip). I learned that GPIO pins allow the Raspberry Pi to interact with external devices, while the SoC combines several important functions into a single chip.
 * What challenges did you face?
-  I faced challenges in remembering the names and functions of the different components and understanding how they work together in the Raspberry Pi.
+
+   I faced challenges in remembering the names and functions of the different components and understanding how they work together in the Raspberry Pi.
 * What did you learn about embedded systems?
-  I learned that embedded systems are small computers designed to perform specific tasks efficiently. They combine different hardware components on a single board to make devices compact, reliable, and cost-effective
+
+   I learned that embedded systems are small computers designed to perform specific tasks efficiently. They combine different hardware components on a single board to make devices compact, reliable, and cost-effective
